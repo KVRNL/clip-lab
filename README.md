@@ -7,14 +7,13 @@
 ### Cut clips out of long recordings, instantly
 
 <a href="https://github.com/KVRNL/clip-lab/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/KVRNL/clip-lab?display_name=tag&label=version&color=F5A623&labelColor=0d0d0f&style=for-the-badge"></a>
-<a href="https://github.com/KVRNL/clip-lab/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/KVRNL/clip-lab/total?label=downloads&color=F5A623&labelColor=0d0d0f&style=for-the-badge"></a>
 <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0d0d0f?style=for-the-badge&labelColor=0d0d0f">
 <img alt="Price" src="https://img.shields.io/badge/price-FREE-F5A623?style=for-the-badge&labelColor=0d0d0f">
 <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Proprietary%20Freeware-0d0d0f?style=for-the-badge&labelColor=0d0d0f"></a>
 
 <br>
 
-Point Clip Lab at a long stream recording, mark the moments you want, and export clean clips in seconds. Instant lossless cuts or frame-perfect exports — with bundled ffmpeg, so there's nothing to set up.
+Point Clip Lab at a long stream recording, mark the moments you want, and export clean clips in seconds. Instant lossless cuts or frame-perfect exports — nothing to set up.
 
 ### **[⬇&nbsp; Download Clip Lab — free at kvrnl.io](https://kvrnl.io/products/clip-lab/)**
 
@@ -35,12 +34,12 @@ Leave it on instant, lossless cuts, or flip on frame-perfect mode for exact edge
 - **Instant, lossless cuts — or frame-perfect re-encodes**
 - **GPU (NVENC) export with automatic CPU fallback**
 - **Queue up many clips and batch-export in one go**
-- **Bundled ffmpeg — huge files open instantly, nothing to install**
+- **Huge files open instantly — nothing to install**
 
 ## Download &amp; install
 
-Clip Lab is **completely free**. Downloads run through a free KVRNL account so every
-install gets its own license key.
+Clip Lab is **completely free**. Each install needs its own license key, which you get
+with a free KVRNL account.
 
 1. Go to **[kvrnl.io/products/clip-lab/](https://kvrnl.io/products/clip-lab/)**
 2. Create a free account — email verification, nothing else
