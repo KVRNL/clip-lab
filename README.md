@@ -72,14 +72,38 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.4** — 2026-09-06
+  - Brand-new Settings, redesigned from the ground up with tabs: General, Export, Updates, Account, Support and About.
+  - Your choices now stick between launches: arrow-key jump distance, default cut mode, GPU or CPU encoding, export quality, a default save folder, and a pattern for naming clips automatically (mix in {video}, {n}, {start}, {end} or {date}).
+  - Optional: open the folder automatically when an export finishes.
+  - Updates tab shows what's new in every release, live download progress, and a Restart & update button the moment one is ready. A small dot on the gear icon tells you when an update is waiting.
+  - Account tab shows your license status, a masked copy of your key, and your Device ID, with one-click copy for support.
+  - Bug reports can now include diagnostics (version, Windows build, encoder, Device ID) so we can help faster, and a failed export offers a Report this button that fills in the details for you.
+  - Keyboard shortcuts are listed under About.
+
+**v1.0.3** — 2026-09-05
+  - Instant (lossless) exports no longer fail on files that can't be cut without re-encoding, like older WebM or FLV recordings. Clip Lab now re-encodes those clips automatically and tells you it did.
+  - Frame-perfect exports of HDR or 10-bit recordings now use the GPU and produce standard MP4s that play everywhere, including phones and Discord.
+  - Videos with a % or ? in the file name now load in the preview player.
+  - Choosing a different video now offers to clear the clips you marked on the previous one, so old timestamps can't be applied to the wrong file.
+  - Formats the preview can't play (FLV, TS, AVI) now say so instead of showing a black box. You can still type times and export.
+  - Arrow keys jump 15 seconds and Space plays/pauses even right after using the scrub or volume slider.
+  - A temporary server problem during a license check no longer locks you out or tells you your key is invalid.
+  - The window now fits on smaller laptop screens instead of hanging off the bottom.
+  - Clip Lab cleans up the temporary files each launch leaves behind, so they no longer pile up in your Temp folder.
+
+**v1.0.2** — 2026-08-18
+  - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
+  - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
+
 **v1.0.1** — 2026-07-05
   - Fixed the app still showing its old name in the title bar and header — it now reads Clip Lab everywhere.
 
 **v1.0.0** — 2026-07-05
   - Initial release.
   - Cut clips out of long stream recordings: open a recording, mark a Start and End, queue up as many clips as you want, and batch-export them all at once.
-  - Instant, lossless cuts — or turn on frame-perfect mode for exact edges (re-encodes on your GPU via NVIDIA NVENC, with an automatic CPU fallback).
-  - Bundled ffmpeg means even multi-hour files open instantly, with nothing to install.
+  - Instant, lossless cuts — or turn on frame-perfect mode for exact edges (re-encodes on your NVIDIA GPU when you have one, with an automatic CPU fallback).
+  - Everything it needs is built in, so even multi-hour files open instantly with nothing to install.
   - Run several copies at once, one per video, without conflicts. Built-in player with 15-second arrow-key seeking.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
