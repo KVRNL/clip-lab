@@ -71,6 +71,15 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.5** — 2026-09-25
+  - The activation screen has been redesigned. It walks you through getting your free key: create a free KVRNL account, get Clip Lab for free, then copy your key from My Tools. Each step has a button that opens the right page.
+  - Entering your key is easier: paste it straight from an email or web page and Clip Lab picks the key out and tidies it up, or use the new Paste button.
+  - When something's wrong with your key, the screen now says exactly what happened and what to do next, for example when the key is active on another PC, was released from this one, or Clip Lab has been offline too long.
+  - Clip Lab now opens instantly once it's activated, instead of waiting for the internet first. Your license is still confirmed in the background.
+  - If several Clip Lab windows are waiting for a key, activating one now lets the others through as soon as you switch to them.
+  - Stronger protection around activation, and dropping a file onto a Clip Lab window can no longer replace the app's screen.
+  - Fixed a rare case where Clip Lab could lock again right after you re-activated it.
+
 **v1.0.4** — 2026-09-06
   - Brand-new Settings, redesigned from the ground up with tabs: General, Export, Updates, Account, Support and About.
   - Your choices now stick between launches: arrow-key jump distance, default cut mode, GPU or CPU encoding, export quality, a default save folder, and a pattern for naming clips automatically (mix in {video}, {n}, {start}, {end} or {date}).
@@ -97,13 +106,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 **v1.0.1** — 2026-07-05
   - Fixed the app still showing its old name in the title bar and header — it now reads Clip Lab everywhere.
-
-**v1.0.0** — 2026-07-05
-  - Initial release.
-  - Cut clips out of long stream recordings: open a recording, mark a Start and End, queue up as many clips as you want, and batch-export them all at once.
-  - Instant, lossless cuts — or turn on frame-perfect mode for exact edges (re-encodes on your NVIDIA GPU when you have one, with an automatic CPU fallback).
-  - Everything it needs is built in, so even multi-hour files open instantly with nothing to install.
-  - Run several copies at once, one per video, without conflicts. Built-in player with 15-second arrow-key seeking.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
