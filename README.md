@@ -71,6 +71,10 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.6** — 2026-09-26
+  - Clip Lab can now share basic usage info with KVRNL to help improve it: your Windows version and hardware, which features you use, and errors. It asks you once, and you can switch it off anytime in Settings under General. It never sends your files, file names or videos.
+  - When Clip Lab checks your license, it now also says which version you're running, so we can see when an update has reached everyone.
+
 **v1.0.5** — 2026-09-25
   - The activation screen has been redesigned. It walks you through getting your free key: create a free KVRNL account, get Clip Lab for free, then copy your key from My Tools. Each step has a button that opens the right page.
   - Entering your key is easier: paste it straight from an email or web page and Clip Lab picks the key out and tidies it up, or use the new Paste button.
@@ -103,9 +107,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 **v1.0.2** — 2026-08-18
   - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
   - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
-
-**v1.0.1** — 2026-07-05
-  - Fixed the app still showing its old name in the title bar and header — it now reads Clip Lab everywhere.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
