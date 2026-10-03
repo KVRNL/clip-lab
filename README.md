@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.7** — 2026-10-03
+  - New: save any frame as a picture. Click the camera button under the video, or press S, and Clip Lab saves the exact frame you're looking at as a full-quality image, in the same folder as your clips.
+  - Fixed: sending a report from Settings under Support could show an error even though the report arrived. It now says Sent when your report gets through, and if it really can't send you get a plain message and your report stays on screen.
+  - Screenshots attached to reports are now sized so they always go through.
+
 **v1.0.6** — 2026-09-26
   - Clip Lab can now share basic usage info with KVRNL to help improve it: your Windows version and hardware, which features you use, and errors. It asks you once, and you can switch it off anytime in Settings under General. It never sends your files, file names or videos.
   - When Clip Lab checks your license, it now also says which version you're running, so we can see when an update has reached everyone.
@@ -103,10 +108,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - A temporary server problem during a license check no longer locks you out or tells you your key is invalid.
   - The window now fits on smaller laptop screens instead of hanging off the bottom.
   - Clip Lab cleans up the temporary files each launch leaves behind, so they no longer pile up in your Temp folder.
-
-**v1.0.2** — 2026-08-18
-  - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
-  - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
