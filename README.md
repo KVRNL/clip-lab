@@ -71,6 +71,10 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.8** — 2026-10-08
+  - Fixed: vertical videos, like phone recordings, now fit in the video area. You see the whole picture at any window size instead of having to stretch the window.
+  - Widescreen videos also show in full now. Before, the bottom of the picture could be cut off, especially in a wide or maximized window.
+
 **v1.0.7** — 2026-10-03
   - New: save any frame as a picture. Click the camera button under the video, or press S, and Clip Lab saves the exact frame you're looking at as a full-quality image, in the same folder as your clips.
   - Fixed: sending a report from Settings under Support could show an error even though the report arrived. It now says Sent when your report gets through, and if it really can't send you get a plain message and your report stays on screen.
@@ -97,17 +101,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Account tab shows your license status, a masked copy of your key, and your Device ID, with one-click copy for support.
   - Bug reports can now include diagnostics (version, Windows build, encoder, Device ID) so we can help faster, and a failed export offers a Report this button that fills in the details for you.
   - Keyboard shortcuts are listed under About.
-
-**v1.0.3** — 2026-09-05
-  - Instant (lossless) exports no longer fail on files that can't be cut without re-encoding, like older WebM or FLV recordings. Clip Lab now re-encodes those clips automatically and tells you it did.
-  - Frame-perfect exports of HDR or 10-bit recordings now use the GPU and produce standard MP4s that play everywhere, including phones and Discord.
-  - Videos with a % or ? in the file name now load in the preview player.
-  - Choosing a different video now offers to clear the clips you marked on the previous one, so old timestamps can't be applied to the wrong file.
-  - Formats the preview can't play (FLV, TS, AVI) now say so instead of showing a black box. You can still type times and export.
-  - Arrow keys jump 15 seconds and Space plays/pauses even right after using the scrub or volume slider.
-  - A temporary server problem during a license check no longer locks you out or tells you your key is invalid.
-  - The window now fits on smaller laptop screens instead of hanging off the bottom.
-  - Clip Lab cleans up the temporary files each launch leaves behind, so they no longer pile up in your Temp folder.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
