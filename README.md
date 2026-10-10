@@ -71,6 +71,12 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.10** — 2026-10-10
+  - New: add text to your clips. Pick one of 12 ready-made styles, or make your own with any font, color, outline, drop shadow and highlight behind the text.
+  - New: add stickers and emojis, and shapes like boxes, circles, stars, hearts and arrows. Drag them anywhere on the video and resize them from the corner.
+  - New: animations. Text, stickers and shapes can fade, pop or slide in and out, and pulse while they are on. Choose when each one shows, and press play to preview it.
+  - What you see on the video is what you get in the clip, including cropped and resized clips.
+
 **v1.0.9** — 2026-10-10
   - New: crop your clips. Pick a shape like 9:16 for TikTok and Shorts, 1:1 or 4:5, or Free, then drag the box on the video to choose the part you want to keep.
   - New: choose a size for your clips: 1080p, 720p or 480p.
@@ -89,15 +95,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 **v1.0.6** — 2026-09-26
   - Clip Lab can now share basic usage info with KVRNL to help improve it: your Windows version and hardware, which features you use, and errors. It asks you once, and you can switch it off anytime in Settings under General. It never sends your files, file names or videos.
   - When Clip Lab checks your license, it now also says which version you're running, so we can see when an update has reached everyone.
-
-**v1.0.5** — 2026-09-25
-  - The activation screen has been redesigned. It walks you through getting your free key: create a free KVRNL account, get Clip Lab for free, then copy your key from My Tools. Each step has a button that opens the right page.
-  - Entering your key is easier: paste it straight from an email or web page and Clip Lab picks the key out and tidies it up, or use the new Paste button.
-  - When something's wrong with your key, the screen now says exactly what happened and what to do next, for example when the key is active on another PC, was released from this one, or Clip Lab has been offline too long.
-  - Clip Lab now opens instantly once it's activated, instead of waiting for the internet first. Your license is still confirmed in the background.
-  - If several Clip Lab windows are waiting for a key, activating one now lets the others through as soon as you switch to them.
-  - Stronger protection around activation, and dropping a file onto a Clip Lab window can no longer replace the app's screen.
-  - Fixed a rare case where Clip Lab could lock again right after you re-activated it.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
