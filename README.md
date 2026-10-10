@@ -71,6 +71,12 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.9** — 2026-10-10
+  - New: crop your clips. Pick a shape like 9:16 for TikTok and Shorts, 1:1 or 4:5, or Free, then drag the box on the video to choose the part you want to keep.
+  - New: choose a size for your clips: 1080p, 720p or 480p.
+  - New: sound options for each clip. Keep the sound, remove it, save just the sound as an MP3, or split it into a silent video plus an MP3.
+  - Each clip in the list shows its crop, size and sound, so one recording can give you a vertical clip and a widescreen clip in the same export. Cropped or resized clips take a little longer to save.
+
 **v1.0.8** — 2026-10-08
   - Fixed: vertical videos, like phone recordings, now fit in the video area. You see the whole picture at any window size instead of having to stretch the window.
   - Widescreen videos also show in full now. Before, the bottom of the picture could be cut off, especially in a wide or maximized window.
@@ -92,15 +98,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - If several Clip Lab windows are waiting for a key, activating one now lets the others through as soon as you switch to them.
   - Stronger protection around activation, and dropping a file onto a Clip Lab window can no longer replace the app's screen.
   - Fixed a rare case where Clip Lab could lock again right after you re-activated it.
-
-**v1.0.4** — 2026-09-06
-  - Brand-new Settings, redesigned from the ground up with tabs: General, Export, Updates, Account, Support and About.
-  - Your choices now stick between launches: arrow-key jump distance, default cut mode, GPU or CPU encoding, export quality, a default save folder, and a pattern for naming clips automatically (mix in {video}, {n}, {start}, {end} or {date}).
-  - Optional: open the folder automatically when an export finishes.
-  - Updates tab shows what's new in every release, live download progress, and a Restart & update button the moment one is ready. A small dot on the gear icon tells you when an update is waiting.
-  - Account tab shows your license status, a masked copy of your key, and your Device ID, with one-click copy for support.
-  - Bug reports can now include diagnostics (version, Windows build, encoder, Device ID) so we can help faster, and a failed export offers a Report this button that fills in the details for you.
-  - Keyboard shortcuts are listed under About.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
