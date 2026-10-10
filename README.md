@@ -71,6 +71,13 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.11** — 2026-10-10
+  - New: a timeline under the video. Every text, sticker and shape gets its own bar, so you control exactly when each one shows. Drag a bar to move it, or drag its ends to change when it appears and disappears. It snaps to whole seconds, or tenths with Shift.
+  - New items start where the video is paused. Click the timeline's ruler to jump to any second, and zoom in for long clips.
+  - Click a clip in your list to change it later: its times, crop, size, sound and everything on its timeline come back for you to edit.
+  - Rename clips right in the list with the pencil button. The left side is more compact, so the video gets more room.
+  - Fixed: a selected text or sticker no longer shows a dark box behind it while you edit.
+
 **v1.0.10** — 2026-10-10
   - New: add text to your clips. Pick one of 12 ready-made styles, or make your own with any font, color, outline, drop shadow and highlight behind the text.
   - New: add stickers and emojis, and shapes like boxes, circles, stars, hearts and arrows. Drag them anywhere on the video and resize them from the corner.
@@ -91,10 +98,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - New: save any frame as a picture. Click the camera button under the video, or press S, and Clip Lab saves the exact frame you're looking at as a full-quality image, in the same folder as your clips.
   - Fixed: sending a report from Settings under Support could show an error even though the report arrived. It now says Sent when your report gets through, and if it really can't send you get a plain message and your report stays on screen.
   - Screenshots attached to reports are now sized so they always go through.
-
-**v1.0.6** — 2026-09-26
-  - Clip Lab can now share basic usage info with KVRNL to help improve it: your Windows version and hardware, which features you use, and errors. It asks you once, and you can switch it off anytime in Settings under General. It never sends your files, file names or videos.
-  - When Clip Lab checks your license, it now also says which version you're running, so we can see when an update has reached everyone.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
