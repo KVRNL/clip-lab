@@ -71,6 +71,9 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.12** — 2026-10-11
+  - Opening a new video now starts clean: the timeline is cleared and crop, size and sound go back to their defaults, so nothing carries over from the last video. Clips already in your list keep their own settings.
+
 **v1.0.11** — 2026-10-10
   - New: a timeline under the video. Every text, sticker and shape gets its own bar, so you control exactly when each one shows. Drag a bar to move it, or drag its ends to change when it appears and disappears. It snaps to whole seconds, or tenths with Shift.
   - New items start where the video is paused. Click the timeline's ruler to jump to any second, and zoom in for long clips.
@@ -93,11 +96,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 **v1.0.8** — 2026-10-08
   - Fixed: vertical videos, like phone recordings, now fit in the video area. You see the whole picture at any window size instead of having to stretch the window.
   - Widescreen videos also show in full now. Before, the bottom of the picture could be cut off, especially in a wide or maximized window.
-
-**v1.0.7** — 2026-10-03
-  - New: save any frame as a picture. Click the camera button under the video, or press S, and Clip Lab saves the exact frame you're looking at as a full-quality image, in the same folder as your clips.
-  - Fixed: sending a report from Settings under Support could show an error even though the report arrived. It now says Sent when your report gets through, and if it really can't send you get a plain message and your report stays on screen.
-  - Screenshots attached to reports are now sized so they always go through.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
