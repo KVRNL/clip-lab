@@ -71,6 +71,12 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.13** — 2026-10-11
+  - A cleaner, more compact timeline. Bars show their text or icon right on them, and things that don't overlap in time share a row, so the video gets more room.
+  - Bars now line up on their own: they snap to whole seconds, the playhead, and the start or end of other bars, with a yellow line showing what they lined up with. Shift still gives tenths of a second.
+  - While you drag, a bubble shows exactly when it starts and ends. Hover a bar to duplicate or delete it, or right-click for more, including Bring to front and Send to back. Ctrl+D duplicates.
+  - A new look for the export window: a clear status at the top, a progress bar for the whole export, and a card for each clip with a Show button once it's saved.
+
 **v1.0.12** — 2026-10-11
   - Opening a new video now starts clean: the timeline is cleared and crop, size and sound go back to their defaults, so nothing carries over from the last video. Clips already in your list keep their own settings.
 
@@ -92,10 +98,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - New: choose a size for your clips: 1080p, 720p or 480p.
   - New: sound options for each clip. Keep the sound, remove it, save just the sound as an MP3, or split it into a silent video plus an MP3.
   - Each clip in the list shows its crop, size and sound, so one recording can give you a vertical clip and a widescreen clip in the same export. Cropped or resized clips take a little longer to save.
-
-**v1.0.8** — 2026-10-08
-  - Fixed: vertical videos, like phone recordings, now fit in the video area. You see the whole picture at any window size instead of having to stretch the window.
-  - Widescreen videos also show in full now. Before, the bottom of the picture could be cut off, especially in a wide or maximized window.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
