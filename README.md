@@ -71,6 +71,9 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.18** — 2026-10-11
+  - The Settings gear moved to the far right of the top-right buttons, after the folder and close buttons.
+
 **v1.0.17** — 2026-10-11
   - New close button in the top-right corner: close the video you're done with and go back to the start screen without quitting the app.
   - The Choose Video button is now a folder icon, next to the new close button, so the four buttons in the top-right corner match.
@@ -93,12 +96,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Your clips list moved to a new button next to Settings. It shows how many clips are waiting, and opens the list as a popup like Settings.
   - Exports can run in the background: hide the progress window and keep working. The button shows the progress, then a check mark when it's done (or ! if something failed), and a message on the video lets you see the result.
   - The text, sticker and shape editor now slides in on the right while you're editing and slides away when you're done.
-
-**v1.0.13** — 2026-10-11
-  - A cleaner, more compact timeline. Bars show their text or icon right on them, and things that don't overlap in time share a row, so the video gets more room.
-  - Bars now line up on their own: they snap to whole seconds, the playhead, and the start or end of other bars, with a yellow line showing what they lined up with. Shift still gives tenths of a second.
-  - While you drag, a bubble shows exactly when it starts and ends. Hover a bar to duplicate or delete it, or right-click for more, including Bring to front and Send to back. Ctrl+D duplicates.
-  - A new look for the export window: a clear status at the top, a progress bar for the whole export, and a card for each clip with a Show button once it's saved.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
