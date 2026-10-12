@@ -71,6 +71,13 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.15** — 2026-10-11
+  - New: full layer control. A Layer order list in the side panel shows everything on the video, front-most at the top. Drag rows to restack them, or use their arrows.
+  - Right-click a bar for Bring forward and Send backward (one step) as well as Bring to front and Send to back. Ctrl+] and Ctrl+[ move one step, add Shift to go all the way.
+  - Each bar on the timeline shows its place in the stack, and a new Layers button on the timeline opens the layer order any time.
+  - Nearly 600 stickers, sorted into groups: Popular, Faces, Hands and people, Hearts, Symbols, Fun and gaming, Animals and nature, Food and drink, and Travel.
+  - The timeline's scrollbar is slimmer.
+
 **v1.0.14** — 2026-10-11
   - The video and everything under it now use the whole window, so the picture is much bigger.
   - Your clips list moved to a new button next to Settings. It shows how many clips are waiting, and opens the list as a popup like Settings.
@@ -92,12 +99,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Click a clip in your list to change it later: its times, crop, size, sound and everything on its timeline come back for you to edit.
   - Rename clips right in the list with the pencil button. The left side is more compact, so the video gets more room.
   - Fixed: a selected text or sticker no longer shows a dark box behind it while you edit.
-
-**v1.0.10** — 2026-10-10
-  - New: add text to your clips. Pick one of 12 ready-made styles, or make your own with any font, color, outline, drop shadow and highlight behind the text.
-  - New: add stickers and emojis, and shapes like boxes, circles, stars, hearts and arrows. Drag them anywhere on the video and resize them from the corner.
-  - New: animations. Text, stickers and shapes can fade, pop or slide in and out, and pulse while they are on. Choose when each one shows, and press play to preview it.
-  - What you see on the video is what you get in the clip, including cropped and resized clips.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
