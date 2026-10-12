@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.16** — 2026-10-11
+  - The timeline rows are now the layer order: one row per item, with the front-most at the top. Drag a bar up or down to change what's in front. The numbers update as you drag, and the video re-layers with it.
+  - Each drag goes one way: sideways changes the timing, up or down changes the layer, so restacking never moves the timing by accident.
+  - Fixed: pressing a bar again right after clicking it now drags it, instead of jumping into its text box. A double-click still does that.
+
 **v1.0.15** — 2026-10-11
   - New: full layer control. A Layer order list in the side panel shows everything on the video, front-most at the top. Drag rows to restack them, or use their arrows.
   - Right-click a bar for Bring forward and Send backward (one step) as well as Bring to front and Send to back. Ctrl+] and Ctrl+[ move one step, add Shift to go all the way.
@@ -92,13 +97,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 **v1.0.12** — 2026-10-11
   - Opening a new video now starts clean: the timeline is cleared and crop, size and sound go back to their defaults, so nothing carries over from the last video. Clips already in your list keep their own settings.
-
-**v1.0.11** — 2026-10-10
-  - New: a timeline under the video. Every text, sticker and shape gets its own bar, so you control exactly when each one shows. Drag a bar to move it, or drag its ends to change when it appears and disappears. It snaps to whole seconds, or tenths with Shift.
-  - New items start where the video is paused. Click the timeline's ruler to jump to any second, and zoom in for long clips.
-  - Click a clip in your list to change it later: its times, crop, size, sound and everything on its timeline come back for you to edit.
-  - Rename clips right in the list with the pencil button. The left side is more compact, so the video gets more room.
-  - Fixed: a selected text or sticker no longer shows a dark box behind it while you edit.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
