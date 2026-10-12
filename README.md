@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.17** — 2026-10-11
+  - New close button in the top-right corner: close the video you're done with and go back to the start screen without quitting the app.
+  - The Choose Video button is now a folder icon, next to the new close button, so the four buttons in the top-right corner match.
+  - If there are clips in your list when you close a video, Clip Lab asks first, since they were marked on that video. An export that's already running keeps going and finishes normally.
+
 **v1.0.16** — 2026-10-11
   - The timeline rows are now the layer order: one row per item, with the front-most at the top. Drag a bar up or down to change what's in front. The numbers update as you drag, and the video re-layers with it.
   - Each drag goes one way: sideways changes the timing, up or down changes the layer, so restacking never moves the timing by accident.
@@ -94,9 +99,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Bars now line up on their own: they snap to whole seconds, the playhead, and the start or end of other bars, with a yellow line showing what they lined up with. Shift still gives tenths of a second.
   - While you drag, a bubble shows exactly when it starts and ends. Hover a bar to duplicate or delete it, or right-click for more, including Bring to front and Send to back. Ctrl+D duplicates.
   - A new look for the export window: a clear status at the top, a progress bar for the whole export, and a card for each clip with a Show button once it's saved.
-
-**v1.0.12** — 2026-10-11
-  - Opening a new video now starts clean: the timeline is cleared and crop, size and sound go back to their defaults, so nothing carries over from the last video. Clips already in your list keep their own settings.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
