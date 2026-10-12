@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.19** — 2026-10-12
+  - Drag and drop: drag a video from a folder onto Clip Lab to open it. The window shows 'Drop to open' while you drag.
+  - Dropping a video while another one is open switches to it, and asks about the clips in your list, just like the folder button.
+  - Dropping something that isn't a video shows a short message instead of doing nothing.
+
 **v1.0.18** — 2026-10-11
   - The Settings gear moved to the far right of the top-right buttons, after the folder and close buttons.
 
@@ -90,12 +95,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Each bar on the timeline shows its place in the stack, and a new Layers button on the timeline opens the layer order any time.
   - Nearly 600 stickers, sorted into groups: Popular, Faces, Hands and people, Hearts, Symbols, Fun and gaming, Animals and nature, Food and drink, and Travel.
   - The timeline's scrollbar is slimmer.
-
-**v1.0.14** — 2026-10-11
-  - The video and everything under it now use the whole window, so the picture is much bigger.
-  - Your clips list moved to a new button next to Settings. It shows how many clips are waiting, and opens the list as a popup like Settings.
-  - Exports can run in the background: hide the progress window and keep working. The button shows the progress, then a check mark when it's done (or ! if something failed), and a message on the video lets you see the result.
-  - The text, sticker and shape editor now slides in on the right while you're editing and slides away when you're done.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
