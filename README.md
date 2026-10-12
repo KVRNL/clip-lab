@@ -71,6 +71,12 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.14** — 2026-10-11
+  - The video and everything under it now use the whole window, so the picture is much bigger.
+  - Your clips list moved to a new button next to Settings. It shows how many clips are waiting, and opens the list as a popup like Settings.
+  - Exports can run in the background: hide the progress window and keep working. The button shows the progress, then a check mark when it's done (or ! if something failed), and a message on the video lets you see the result.
+  - The text, sticker and shape editor now slides in on the right while you're editing and slides away when you're done.
+
 **v1.0.13** — 2026-10-11
   - A cleaner, more compact timeline. Bars show their text or icon right on them, and things that don't overlap in time share a row, so the video gets more room.
   - Bars now line up on their own: they snap to whole seconds, the playhead, and the start or end of other bars, with a yellow line showing what they lined up with. Shift still gives tenths of a second.
@@ -92,12 +98,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - New: add stickers and emojis, and shapes like boxes, circles, stars, hearts and arrows. Drag them anywhere on the video and resize them from the corner.
   - New: animations. Text, stickers and shapes can fade, pop or slide in and out, and pulse while they are on. Choose when each one shows, and press play to preview it.
   - What you see on the video is what you get in the clip, including cropped and resized clips.
-
-**v1.0.9** — 2026-10-10
-  - New: crop your clips. Pick a shape like 9:16 for TikTok and Shorts, 1:1 or 4:5, or Free, then drag the box on the video to choose the part you want to keep.
-  - New: choose a size for your clips: 1080p, 720p or 480p.
-  - New: sound options for each clip. Keep the sound, remove it, save just the sound as an MP3, or split it into a silent video plus an MP3.
-  - Each clip in the list shows its crop, size and sound, so one recording can give you a vertical clip and a widescreen clip in the same export. Cropped or resized clips take a little longer to save.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
