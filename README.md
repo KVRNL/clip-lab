@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.23** — 2026-10-20
+  - Fixed: in a combined video, transitions were eating into the photos, so a photo set to 3 seconds didn't stay on screen for 3 seconds and the video came out shorter than expected.
+  - A photo's seconds are now how long it stays fully on screen, with the transitions added between photos: three 3-second photos with 1.5-second transitions make a 12-second video.
+  - A short photo no longer shortens the transitions next to it. Video clips still blend into each other as before, and the total length shown in the combine window matches the video you get.
+
 **v1.0.22** — 2026-10-20
   - Preview your transitions: every transition in the combine window has a Preview button that plays the end of one piece running into the start of the next, so you can see exactly how it will look.
   - Picking a different transition shows its preview straight away. The preview follows the shape, fit and transition length you pick, and can play with or without sound.
@@ -93,9 +98,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Drag and drop: drag a video from a folder onto Clip Lab to open it. The window shows 'Drop to open' while you drag.
   - Dropping a video while another one is open switches to it, and asks about the clips in your list, just like the folder button.
   - Dropping something that isn't a video shows a short message instead of doing nothing.
-
-**v1.0.18** — 2026-10-11
-  - The Settings gear moved to the far right of the top-right buttons, after the folder and close buttons.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
