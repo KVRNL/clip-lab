@@ -71,6 +71,13 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.20** — 2026-10-20
+  - New: combine clips and photos into one video. Open your clips list and pick 'Combine clips and photos into one video', put the pieces in order, and save it as one MP4.
+  - Pick a transition between each piece: cut, crossfade, fade through black or white, dissolve, slide, wipe, circle, clock wipe, zoom, pixelate, blur or squeeze, and how long it lasts.
+  - Choose the video's shape (wide, tall, square or portrait) and size. Clips keep their own crop, text, stickers, shapes and sound, and photos can be added from a folder or dropped straight in.
+  - Clips now remember the video they came from. Opening or closing a video no longer clears your list, and you can export or change clips from different videos together.
+  - Each clip saves next to its own video unless you pick a folder.
+
 **v1.0.19** — 2026-10-12
   - Drag and drop: drag a video from a folder onto Clip Lab to open it. The window shows 'Drop to open' while you drag.
   - Dropping a video while another one is open switches to it, and asks about the clips in your list, just like the folder button.
@@ -88,13 +95,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - The timeline rows are now the layer order: one row per item, with the front-most at the top. Drag a bar up or down to change what's in front. The numbers update as you drag, and the video re-layers with it.
   - Each drag goes one way: sideways changes the timing, up or down changes the layer, so restacking never moves the timing by accident.
   - Fixed: pressing a bar again right after clicking it now drags it, instead of jumping into its text box. A double-click still does that.
-
-**v1.0.15** — 2026-10-11
-  - New: full layer control. A Layer order list in the side panel shows everything on the video, front-most at the top. Drag rows to restack them, or use their arrows.
-  - Right-click a bar for Bring forward and Send backward (one step) as well as Bring to front and Send to back. Ctrl+] and Ctrl+[ move one step, add Shift to go all the way.
-  - Each bar on the timeline shows its place in the stack, and a new Layers button on the timeline opens the layer order any time.
-  - Nearly 600 stickers, sorted into groups: Popular, Faces, Hands and people, Hearts, Symbols, Fun and gaming, Animals and nature, Food and drink, and Travel.
-  - The timeline's scrollbar is slimmer.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
