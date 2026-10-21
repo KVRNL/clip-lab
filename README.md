@@ -71,6 +71,12 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.21** — 2026-10-20
+  - Combine whole videos from anywhere on your PC: in the combine window, 'Add videos or photos' picks any video files and photos, and you can drop them straight in too. Each video goes in from start to finish.
+  - Mix them freely with clips from your list, in any order, with a transition between each.
+  - New 'Combine videos and photos into one' button on the start screen, so you can make one without opening a video first.
+  - If the first video or photo is tall, the combined video starts tall.
+
 **v1.0.20** — 2026-10-20
   - New: combine clips and photos into one video. Open your clips list and pick 'Combine clips and photos into one video', put the pieces in order, and save it as one MP4.
   - Pick a transition between each piece: cut, crossfade, fade through black or white, dissolve, slide, wipe, circle, clock wipe, zoom, pixelate, blur or squeeze, and how long it lasts.
@@ -90,11 +96,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - New close button in the top-right corner: close the video you're done with and go back to the start screen without quitting the app.
   - The Choose Video button is now a folder icon, next to the new close button, so the four buttons in the top-right corner match.
   - If there are clips in your list when you close a video, Clip Lab asks first, since they were marked on that video. An export that's already running keeps going and finishes normally.
-
-**v1.0.16** — 2026-10-11
-  - The timeline rows are now the layer order: one row per item, with the front-most at the top. Drag a bar up or down to change what's in front. The numbers update as you drag, and the video re-layers with it.
-  - Each drag goes one way: sideways changes the timing, up or down changes the layer, so restacking never moves the timing by accident.
-  - Fixed: pressing a bar again right after clicking it now drags it, instead of jumping into its text box. A double-click still does that.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
