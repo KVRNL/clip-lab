@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.22** — 2026-10-20
+  - Preview your transitions: every transition in the combine window has a Preview button that plays the end of one piece running into the start of the next, so you can see exactly how it will look.
+  - Picking a different transition shows its preview straight away. The preview follows the shape, fit and transition length you pick, and can play with or without sound.
+  - The shape list in the combine window now says what each shape is for, just like Crop: 9:16 (TikTok, Shorts), 16:9 (YouTube), 1:1 (Square), 4:5 (Instagram).
+
 **v1.0.21** — 2026-10-20
   - Combine whole videos from anywhere on your PC: in the combine window, 'Add videos or photos' picks any video files and photos, and you can drop them straight in too. Each video goes in from start to finish.
   - Mix them freely with clips from your list, in any order, with a transition between each.
@@ -91,11 +96,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 **v1.0.18** — 2026-10-11
   - The Settings gear moved to the far right of the top-right buttons, after the folder and close buttons.
-
-**v1.0.17** — 2026-10-11
-  - New close button in the top-right corner: close the video you're done with and go back to the start screen without quitting the app.
-  - The Choose Video button is now a folder icon, next to the new close button, so the four buttons in the top-right corner match.
-  - If there are clips in your list when you close a video, Clip Lab asks first, since they were marked on that video. An export that's already running keeps going and finishes normally.
 
 Full history → **[kvrnl.io/changelog/clip-lab](https://kvrnl.io/changelog/clip-lab/)**
 
